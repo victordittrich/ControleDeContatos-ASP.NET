@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Csharp\\ControleDeContatos\\ControleDeContatos\\ControleDeContatos.csproj": {}
+    "D:\\Github\\ControleDeDados-ASP.NET\\ControleDeContatos\\ControleDeContatos\\ControleDeContatos.csproj": {}
   },
   "projects": {
-    "D:\\Csharp\\ControleDeContatos\\ControleDeContatos\\ControleDeContatos.csproj": {
+    "D:\\Github\\ControleDeDados-ASP.NET\\ControleDeContatos\\ControleDeContatos\\ControleDeContatos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Csharp\\ControleDeContatos\\ControleDeContatos\\ControleDeContatos.csproj",
+        "projectUniqueName": "D:\\Github\\ControleDeDados-ASP.NET\\ControleDeContatos\\ControleDeContatos\\ControleDeContatos.csproj",
         "projectName": "ControleDeContatos",
-        "projectPath": "D:\\Csharp\\ControleDeContatos\\ControleDeContatos\\ControleDeContatos.csproj",
+        "projectPath": "D:\\Github\\ControleDeDados-ASP.NET\\ControleDeContatos\\ControleDeContatos\\ControleDeContatos.csproj",
         "packagesPath": "C:\\Users\\nitri\\.nuget\\packages\\",
-        "outputPath": "D:\\Csharp\\ControleDeContatos\\ControleDeContatos\\obj\\",
+        "outputPath": "D:\\Github\\ControleDeDados-ASP.NET\\ControleDeContatos\\ControleDeContatos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -43,6 +43,28 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

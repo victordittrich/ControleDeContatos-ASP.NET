@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ControleDeContatos",
+    "\\ControleDeContatos\\ControleDeContatos",
+    "\\ControleDeContatos\\ControleDeContatos\\Controllers",
+    "\\ControleDeContatos\\ControleDeContatos\\Data",
+    "\\ControleDeContatos\\ControleDeContatos\\Models",
+    "\\ControleDeContatos\\ControleDeContatos\\Views",
+    "\\ControleDeContatos\\ControleDeContatos\\Views\\Contato",
+    "\\ControleDeContatos\\ControleDeContatos\\Views\\Home"
+  ],
+  "PreviewInSolutionExplorer": false
+}
