@@ -116,3 +116,5 @@ D:\Github\ControleDeDados-ASP.NET\ControleDeContatos\ControleDeContatos\obj\Debu
 D:\Github\ControleDeDados-ASP.NET\ControleDeContatos\ControleDeContatos\obj\Debug\net6.0\ControleDeContatos.pdb
 D:\Github\ControleDeDados-ASP.NET\ControleDeContatos\ControleDeContatos\obj\Debug\net6.0\ControleDeContatos.genruntimeconfig.cache
 D:\Github\ControleDeDados-ASP.NET\ControleDeContatos\ControleDeContatos\obj\Debug\net6.0\ref\ControleDeContatos.dll
+D:\Github\ControleDeDados-ASP.NET\ControleDeContatos\ControleDeContatos\bin\Debug\net6.0\MySqlConnector.dll
+D:\Github\ControleDeDados-ASP.NET\ControleDeContatos\ControleDeContatos\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
